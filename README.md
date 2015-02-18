@@ -17,3 +17,8 @@ TwitterUserAnalysis analysises twitter user behaviour and come up with these bel
 * percent of positive and negative tweets
 * positive negative sentiment percentage graph
 
+## sample week vs tweets graph
+<img src="https://github.com/saimadhu-polamuri/TwitterUserAnalysis/blob/master/week_tweets_graph.png">
+
+## sample sentiment score graph
+<img src="https://github.com/saimadhu-polamuri/TwitterUserAnalysis/blob/master/sentiment_graph.png">
